@@ -1,31 +1,15 @@
 # Hello, I am Weona Lazarus!
 
 Data Analyst | Business Analyst  
-
----
-
-## About Me
-I analyze data to uncover insights that support business decisions.  
-Experienced in Python, SQL, and data visualization tools.
-
 ---
 
 ## Technical Skills
 
-### Programming
-Python · SQL · JavaScript · R  
-
-### Analytics & Visualization
-Forecasting · KPI Development · Excel · Amazon QuickSight · Tableau · Power BI · Matplotlib · Seaborn  
-
-### Data Engineering & Cloud
-ETL Pipelines · Batch Processing · Data Modeling · Redshift · Snowflake · BigQuery  
-
-### Distributed Systems & Databases
-Apache Spark · Hadoop · MySQL · DynamoDB · MongoDB  
-
-### Machine Learning
-Data Validation · Supervised Models · Neural Networks · LLM Evaluation · RAG Architectures · Agentic AI
+Programming - Python · SQL · JavaScript · R  
+Analytics & Visualization - Forecasting · KPI Development · Excel · Amazon QuickSight · Tableau · Power BI · Matplotlib · Seaborn  
+Data Engineering & Cloud - ETL Pipelines · Batch Processing · Data Modeling · Redshift · Snowflake · BigQuery  
+Distributed Systems & Databases - Apache Spark · Hadoop · MySQL · DynamoDB · MongoDB  
+Machine Learning - Data Validation · Supervised Models · Neural Networks · LLM Evaluation · RAG Architectures · Agentic AI
 
 ---
 
