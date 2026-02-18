@@ -1,29 +1,54 @@
-# Hi, I'm Weona Lazarus 👋
+# Hello, I am Weona Lazarus!
 
-# 🎯 Data Analyst | Business Analyst | Data Engineer
+Data Analyst | Business Analyst  
 
-## 🔧 Skills
-- Python (Pandas, NumPy, Matplotlib)
-- SQL
-- Excel
-- Power BI / Tableau
-- Data Cleaning & EDA
+---
 
-## 📂 Featured Projects
+## About Me
+I analyze data to uncover insights that support business decisions.  
+Experienced in Python, SQL, and data visualization tools.
 
-### 📈 Sales Data Analysis
+---
+
+## Technical Skills
+
+### Programming
+Python · SQL · JavaScript · R  
+
+### Analytics & Visualization
+Forecasting · KPI Development · Excel · Amazon QuickSight · Tableau · Power BI · Matplotlib · Seaborn  
+
+### Data Engineering & Cloud
+ETL Pipelines · Batch Processing · Data Modeling · Redshift · Snowflake · BigQuery  
+
+### Distributed Systems & Databases
+Apache Spark · Hadoop · MySQL · DynamoDB · MongoDB  
+
+### Machine Learning
+Data Validation · Supervised Models · Neural Networks · LLM Evaluation · RAG Architectures · Agentic AI
+
+---
+
+## Projects
+
+### Sales Data Analysis
 Analyzed sales data to identify trends and improve forecasting accuracy.  
-🔗 [View Project](https://github.com/yourusername/project-link)
+[View Repository](https://github.com/weonalazarus/repo-name)
 
-### 📊 Customer Churn Analysis
+### Customer Churn Analysis
 Built a predictive model to identify churn risk using Python.  
-🔗 [View Project](https://github.com/yourusername/project-link)
+[View Repository](https://github.com/weonalazarus/repo-name)
 
-## 🌱 Currently Working On
-- Improving SQL query optimization
-- Building end-to-end data analysis projects
-- Strengthening data storytelling skills
+---
 
-## 📫 Connect With Me
-- LinkedIn: linkedin.com/in/weona-lazarus
-- Email: weonawilfredlazarus@gmail.com
+## Currently Improving
+- Advanced SQL queries
+- Data storytelling
+- End-to-end analytics workflows
+
+---
+## Contact
+LinkedIn: https://www.linkedin.com/in/weona-lazarus/
+Email: weonawilfredlazarus@gmail.com
+## Contact
+LinkedIn: (your link)
