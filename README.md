@@ -26,13 +26,13 @@ Built a predictive model to identify churn risk using Python.
 ---
 
 ## Currently Improving
+
 - Advanced SQL queries
 - Data storytelling
 - End-to-end analytics workflows
 
 ---
 ## Contact
+
 LinkedIn: https://www.linkedin.com/in/weona-lazarus/
 Email: weonawilfredlazarus@gmail.com
-## Contact
-LinkedIn: (your link)
