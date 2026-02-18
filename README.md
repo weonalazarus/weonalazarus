@@ -1,4 +1,4 @@
-# Hi, I'm Your Weona Lazarus 👋
+# Hi, I'm Weona Lazarus 👋
 
 🎯 Data Analyst | Business Analyst | Data Engineer
 Python | SQL | Machine Learning | Visualization 
