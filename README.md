@@ -3,16 +3,14 @@
 Data Analyst | Business Analyst  
 ---
 
-## 🚀 Programming
+🚀 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
-
-## 📊 Analytics & Visualization
+📊 Analytics & Visualization
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -21,18 +19,14 @@ Data Analyst | Business Analyst
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
----
-
-## ☁️ Data Engineering & Cloud
+ ☁️ Data Engineering & Cloud
 
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-0052CC?style=for-the-badge)
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
 
----
-
-## 🗄 Distributed Systems & Databases
+ 🗄 Distributed Systems & Databases
 
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
@@ -40,9 +34,7 @@ Data Analyst | Business Analyst
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 🤖 Machine Learning
+ 🤖 Machine Learning
 
 ![Supervised Learning](https://img.shields.io/badge/Supervised_Models-6A1B9A?style=for-the-badge)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-8E24AA?style=for-the-badge)
