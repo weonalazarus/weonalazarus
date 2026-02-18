@@ -19,6 +19,14 @@ Data Analyst | Business Analyst
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0A8754?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0A8754?style=for-the-badge)
 
+ 🤖 Machine Learning
+ 
+![Supervised_Models](https://img.shields.io/badge/Supervised_Models-004F2D?style=for-the-badge)
+![Neural_Networks](https://img.shields.io/badge/Neural_Networks-004F2D?style=for-the-badge)
+![LLM_Evaluation](https://img.shields.io/badge/LLM_Evaluation-004F2D?style=for-the-badge)
+![RAG_Architectures](https://img.shields.io/badge/RAG_Architectures-004F2D?style=for-the-badge)
+![Agentic_AI](https://img.shields.io/badge/Agentic_AI-004F2D?style=for-the-badge)
+
  ☁️ Data Engineering & Cloud
 
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-508CA4?style=for-the-badge)
@@ -33,13 +41,6 @@ Data Analyst | Business Analyst
 ![MySQL](https://img.shields.io/badge/MySQL-91AEC1?style=for-the-badge&logo=mysql&logoColor=black)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-91AEC1?style=for-the-badge&logo=amazondynamodb&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-91AEC1?style=for-the-badge&logo=mongodb&logoColor=black)
-
- 🤖 Machine Learning
-![Supervised_Models](https://img.shields.io/badge/Supervised_Models-004F2D?style=for-the-badge)
-![Neural_Networks](https://img.shields.io/badge/Neural_Networks-004F2D?style=for-the-badge)
-![LLM_Evaluation](https://img.shields.io/badge/LLM_Evaluation-004F2D?style=for-the-badge)
-![RAG_Architectures](https://img.shields.io/badge/RAG_Architectures-004F2D?style=for-the-badge)
-![Agentic_AI](https://img.shields.io/badge/Agentic_AI-004F2D?style=for-the-badge)
 
 ---
 
