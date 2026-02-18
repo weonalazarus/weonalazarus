@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Your Weona Lazarus 👋
 
-<!--
-**weonalazarus/weonalazarus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Business Analyst | Data Engineer
+Python | SQL | Machine Learning | Visualization 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python (Pandas, NumPy, Matplotlib)
+- SQL
+- Excel
+- Power BI / Tableau
+- Data Cleaning & EDA
+
+---
+
+## 📂 Featured Projects
+
+### 📈 Sales Data Analysis
+Analyzed sales data to identify trends and improve forecasting accuracy.  
+🔗 [View Project](https://github.com/yourusername/project-link)
+
+### 📊 Customer Churn Analysis
+Built a predictive model to identify churn risk using Python.  
+🔗 [View Project](https://github.com/yourusername/project-link)
+
+---
+
+## 🌱 Currently Working On
+- Improving SQL query optimization
+- Building end-to-end data analysis projects
+- Strengthening data storytelling skills
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: linkedin.com/in/weona-lazarus
+- Email: weonawilfredlazarus@gmail.com
