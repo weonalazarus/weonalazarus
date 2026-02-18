@@ -1,9 +1,6 @@
 # Hi, I'm Weona Lazarus 👋
 
-🎯 Data Analyst | Business Analyst | Data Engineer
----
-Python | SQL | Machine Learning | Visualization 
-
+# 🎯 Data Analyst | Business Analyst | Data Engineer
 ---
 
 ## 🔧 Skills
