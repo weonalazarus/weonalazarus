@@ -1,7 +1,6 @@
 # Hi, I'm Weona Lazarus 👋
 
 # 🎯 Data Analyst | Business Analyst | Data Engineer
----
 
 ## 🔧 Skills
 - Python (Pandas, NumPy, Matplotlib)
@@ -9,8 +8,6 @@
 - Excel
 - Power BI / Tableau
 - Data Cleaning & EDA
-
----
 
 ## 📂 Featured Projects
 
@@ -22,14 +19,10 @@ Analyzed sales data to identify trends and improve forecasting accuracy.
 Built a predictive model to identify churn risk using Python.  
 🔗 [View Project](https://github.com/yourusername/project-link)
 
----
-
 ## 🌱 Currently Working On
 - Improving SQL query optimization
 - Building end-to-end data analysis projects
 - Strengthening data storytelling skills
-
----
 
 ## 📫 Connect With Me
 - LinkedIn: linkedin.com/in/weona-lazarus
