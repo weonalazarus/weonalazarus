@@ -44,23 +44,13 @@ Data Analyst | Business Analyst
 
 ---
 
-## Projects
 
-### Sales Data Analysis
-Analyzed sales data to identify trends and improve forecasting accuracy.  
-[View Repository](https://github.com/weonalazarus/repo-name)
-
-### Customer Churn Analysis
-Built a predictive model to identify churn risk using Python.  
-[View Repository](https://github.com/weonalazarus/repo-name)
-
----
 
 ## Currently Improving
 
 - Advanced SQL queries
-- Data storytelling
-- End-to-end analytics workflows
+- Data Engineering concepts (dbt, apche airflow)
+- End-to-end ML pipelines
 
 ---
 ## Contact
