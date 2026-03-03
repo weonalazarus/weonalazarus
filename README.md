@@ -49,7 +49,7 @@ Data Analyst | Business Analyst
 ## Currently Improving
 
 - Advanced SQL queries
-- Data Engineering concepts (dbt, apche airflow)
+- Data Engineering concepts (dbt, apache airflow)
 - End-to-end ML pipelines
 
 ---
