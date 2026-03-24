@@ -50,7 +50,7 @@ I turn messy datasets into decisions and build end-to-end pipelines, dashboards,
 ![MongoDB](https://img.shields.io/badge/MongoDB-91AEC1?style=for-the-badge&logo=mongodb&logoColor=black)
 
 ---
-
+<!---
 ## Featured Projects
 
 | Project | Description | Stack |
@@ -60,20 +60,7 @@ I turn messy datasets into decisions and build end-to-end pipelines, dashboards,
 | 🔗 [Project Name](https://github.com/weonalazarus) | Brief description of what problem it solves and the outcome | Airflow, dbt, Snowflake |
 
 > Replace the rows above with your real projects. Each project repo should have its own README with a problem statement, approach, and results.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weonalazarus&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weonalazarus&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weonalazarus&theme=dark&hide_border=true"/>
-</p>
-
+--->
 ---
 
 ## Currently Building
