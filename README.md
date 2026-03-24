@@ -1,21 +1,10 @@
 # Weona Lazarus
 
-**Data & Business Analyst** — I turn messy datasets into decisions. I build end-to-end pipelines, dashboards, and ML models that take raw data from ingestion to stakeholder-ready insight.
+**Data & Business Analyst** 
+I turn messy datasets into decisions and build end-to-end pipelines, dashboards, and ML models that take raw data from ingestion to stakeholder-ready insight.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weona-lazarus/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weonawilfredlazarus@gmail.com)
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🔗 [Project Name](https://github.com/weonalazarus) | Brief description of what problem it solves and the outcome | Python, SQL, Tableau |
-| 🔗 [Project Name](https://github.com/weonalazarus) | Brief description of what problem it solves and the outcome | Sklearn, Power BI |
-| 🔗 [Project Name](https://github.com/weonalazarus) | Brief description of what problem it solves and the outcome | Airflow, dbt, Snowflake |
-
-> Replace the rows above with your real projects. Each project repo should have its own README with a problem statement, approach, and results.
 
 ---
 
@@ -59,6 +48,18 @@
 ![MySQL](https://img.shields.io/badge/MySQL-91AEC1?style=for-the-badge&logo=mysql&logoColor=black)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-91AEC1?style=for-the-badge&logo=amazondynamodb&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-91AEC1?style=for-the-badge&logo=mongodb&logoColor=black)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔗 [Project Name](https://github.com/weonalazarus) | Brief description of what problem it solves and the outcome | Python, SQL, Tableau |
+| 🔗 [Project Name](https://github.com/weonalazarus) | Brief description of what problem it solves and the outcome | Sklearn, Power BI |
+| 🔗 [Project Name](https://github.com/weonalazarus) | Brief description of what problem it solves and the outcome | Airflow, dbt, Snowflake |
+
+> Replace the rows above with your real projects. Each project repo should have its own README with a problem statement, approach, and results.
 
 ---
 
