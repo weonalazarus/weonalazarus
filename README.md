@@ -1,16 +1,34 @@
-# Hello, I am Weona Lazarus!
+# Weona Lazarus
 
-Data Analyst | Business Analyst  
+**Data & Business Analyst** — I turn messy datasets into decisions. I build end-to-end pipelines, dashboards, and ML models that take raw data from ingestion to stakeholder-ready insight.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weona-lazarus/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weonawilfredlazarus@gmail.com)
+
 ---
 
-🚀 Programming
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔗 [Project Name](https://github.com/weonalazarus) | Brief description of what problem it solves and the outcome | Python, SQL, Tableau |
+| 🔗 [Project Name](https://github.com/weonalazarus) | Brief description of what problem it solves and the outcome | Sklearn, Power BI |
+| 🔗 [Project Name](https://github.com/weonalazarus) | Brief description of what problem it solves and the outcome | Airflow, dbt, Snowflake |
+
+> Replace the rows above with your real projects. Each project repo should have its own README with a problem statement, approach, and results.
+
+---
+
+## Skills
+
+**Programming**
 
 ![Python](https://img.shields.io/badge/Python-004F2D?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-004F2D?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-004F2D?style=for-the-badge&logo=javascript&logoColor=white)
 ![R](https://img.shields.io/badge/R-004F2D?style=for-the-badge&logo=r&logoColor=white)
 
-📊 Analytics & Visualization
+**Analytics & Visualization**
 
 ![Excel](https://img.shields.io/badge/Excel-0A8754?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-0A8754?style=for-the-badge&logo=powerbi&logoColor=white)
@@ -19,22 +37,22 @@ Data Analyst | Business Analyst
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0A8754?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0A8754?style=for-the-badge)
 
- 🤖 Machine Learning
- 
+**Machine Learning**
+
 ![Supervised_Models](https://img.shields.io/badge/Supervised_Models-004F2D?style=for-the-badge)
 ![Neural_Networks](https://img.shields.io/badge/Neural_Networks-004F2D?style=for-the-badge)
 ![LLM_Evaluation](https://img.shields.io/badge/LLM_Evaluation-004F2D?style=for-the-badge)
 ![RAG_Architectures](https://img.shields.io/badge/RAG_Architectures-004F2D?style=for-the-badge)
 ![Agentic_AI](https://img.shields.io/badge/Agentic_AI-004F2D?style=for-the-badge)
 
- ☁️ Data Engineering & Cloud
+**Data Engineering & Cloud**
 
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-508CA4?style=for-the-badge)
 ![Redshift](https://img.shields.io/badge/Redshift-508CA4?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-508CA4?style=for-the-badge&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-508CA4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
- 🗄 Distributed Systems & Databases
+**Distributed Systems & Databases**
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-91AEC1?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Hadoop](https://img.shields.io/badge/Hadoop-91AEC1?style=for-the-badge&logo=apachehadoop&logoColor=black)
@@ -44,17 +62,21 @@ Data Analyst | Business Analyst
 
 ---
 
+## GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=weonalazarus&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weonalazarus&layout=compact&theme=dark&hide_border=true" height="160"/>
+</p>
 
-## Currently Improving
-
-- Advanced SQL queries
-- Data Engineering concepts (dbt, apache airflow)
-- End-to-end ML pipelines
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weonalazarus&theme=dark&hide_border=true"/>
+</p>
 
 ---
-## Contact
 
-LinkedIn: https://www.linkedin.com/in/weona-lazarus/
+## Currently Building
 
-Email: weonawilfredlazarus@gmail.com
+- End-to-end data pipeline with Apache Airflow + dbt
+- Advanced SQL optimization patterns
+- Production-ready ML pipeline (training → serving → monitoring)
